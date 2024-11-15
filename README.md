@@ -21,7 +21,8 @@ H4: A mayor precio, mayor será la capacidad de almacenamiento primario (por eje
 
 H5: Un modelo que considere la RAM, el peso y el almacenamiento primario podrá predecir precios arriba de los 1000 euros.
 
-Columnas de mi Dataset:
+Obtuve este dataset de https://www.kaggle.com/datasets/owm4096/laptop-prices/data y lo componen las siguientes columnas:
+
 Company: Nombre de la compañía 
 Product: Nombre específico del modelo del dispositivo.(EJ, MacBook Pro) 
 TypeName: Categoría general del dispositivo (Ej, Notebook,etc) 
