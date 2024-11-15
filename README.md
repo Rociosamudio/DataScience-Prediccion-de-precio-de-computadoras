@@ -1,4 +1,6 @@
 DataScience-Prediccion-de-precio-de-computadoras
+
+
 Como parte de mi exploración en el mundo del data science y con la meta de alcanzar la independencia económica,he decidido analizar un conjunto de datos sobre computadoras portátiles. 
 Este proyecto surge de mi interés en comprender el comportamiento del mercado de dispositivos electrónicos y, específicamente, en evaluar qué factores influyen en el precio y la 
 demanda.
