@@ -1,4 +1,4 @@
-DataScience-Prediccion-de-precio-de-computadoras
+prediccion de precio de computadoras, para futura pyme.
 
 
 Como parte de mi exploración en el mundo del data science y con la meta de alcanzar la independencia económica,he decidido analizar un conjunto de datos sobre computadoras portátiles. 
